@@ -1,16 +1,19 @@
 ### Hi there 👋
+My name is Rodion aka craftersmine
 
-<!--
-**craftersmine/craftersmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My main programming language is C#. Learned it by myself about 6 years ago.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm currently working on [LVM](https://github.com/craftersmine/LVM), also looking to collaborators for it.
+
+Also translating apps, mods, plugins etc. to Russian
+
+Also I'm started to learn Minecraft Modding with Forge.
+
+You can reach me at Discord: craftersmine#7441 or by E-Mail
+
+---
+
+Fun fact: I have 3 cats 😺
+
+[![craftersmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=craftersmine)](https://github.com/anuraghazra/github-readme-stats)
