@@ -17,3 +17,5 @@ You can reach me at Discord: craftersmine#7441 or by E-Mail
 Fun fact: I have 3 cats 😺
 
 [![craftersmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=craftersmine)](https://github.com/anuraghazra/github-readme-stats)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
