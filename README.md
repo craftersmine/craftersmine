@@ -7,7 +7,7 @@ Also translating apps, mods, plugins etc. to Russian
 
 You can reach me at Discord: craftersmine#7441 or by E-Mail
 
-Currently working on .NET wrapper for Riot Games API set
+**Currently working on .NET wrapper for Riot Games API set**
 
 ---
 
