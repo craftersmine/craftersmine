@@ -3,6 +3,8 @@ My name is Rodion aka craftersmine
 
 My main programming language is C#. Learned it by myself about 6 years ago.
 
+Currently looking for a job as Junior C# Developer or internship aboard
+ 
 Also translating apps, mods, plugins etc. to Russian
 
 You can reach me at Discord: craftersmine#7441 or by E-Mail
