@@ -7,7 +7,8 @@ Currently looking for a job as Junior C# Developer or internship aboard
  
 Also translating apps, mods, plugins etc. to Russian
 
-You can reach me at Discord: craftersmine#7441 or by E-Mail
+You can reach me at Discord: craftersmine
+... or by E-Mail
 
 ---
 
